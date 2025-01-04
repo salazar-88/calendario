@@ -1,14 +1,14 @@
 #calendar { 
 font-family:Arial;
-font-size:12px;}
+font-size:24px;}
 
 #calendar caption {
     text-align:left;
     padding:5px 10px; 
-    background-color:#554d7475;
+    background-color:#9dc0bb75;
     color:#090909;
     font-weight:bold;
-    font-size:medium;}
+    font-size:19px;}
 
 #calendar caption div:nth-child(1) {float:left;}
 
@@ -23,6 +23,6 @@ font-size:12px;}
 #calendar td {
     text-align:right;
     padding:2px 5px;
-    background-color:#ededed;}
+    background-color:#f6f6f6;}
 
 #calendar .hoy {background-color:rgba(224, 197, 76, 0.521);}
