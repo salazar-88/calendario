@@ -1,6 +1,6 @@
 #calendar { 
 font-family:Arial;
-font-size:24px;}
+font-size:20px;}
 
 #calendar caption {
     text-align:left;
@@ -8,7 +8,7 @@ font-size:24px;}
     background-color:#9dc0bb75;
     color:#090909;
     font-weight:bold;
-    font-size:19px;}
+    font-size:16px;}
 
 #calendar caption div:nth-child(1) {float:left;}
 
